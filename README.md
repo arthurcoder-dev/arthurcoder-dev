@@ -1,5 +1,6 @@
+![Background](background.png)
 # 💫 About Me:
-👨‍💻 About Me<br><br>Hi! I'm Arthur Castro, a passionate Python student focused on Back-end Development, Automation, and Bot Development.<br><br>I'm constantly improving my programming <br>skills by building practical projects, learning <br>new technologies, and exploring ways to <br>solve real-world problems with code.<br><br>🚀 Currently focused on:<br>🐍 Python<br>⚙️ Back-end Development<br>🤖 Discord & Telegram Bots<br>🔄 Task Automation<br>🌐 REST APIs<br>🗄️ Databases<br><br>My goal is to become a skilled software developer <br>and create useful, efficient, and scalable applications <br>while continuously learning and growing.
+👨‍💻 About Me<br><br>Hi! I'm Arthur Gabriel Gonçalves Castro Santos, a passionate Python student focused on Back-end Development, Automation, and Bot Development.<br><br>I'm constantly improving my programming <br>skills by building practical projects, learning <br>new technologies, and exploring ways to <br>solve real-world problems with code.<br><br>🚀 Currently focused on:<br>🐍 Python<br>⚙️ Back-end Development<br>🤖 Discord & Telegram Bots<br>🔄 Task Automation<br>🌐 REST APIs<br>🗄️ Databases<br><br>My goal is to become a skilled software developer <br>and create useful, efficient, and scalable applications <br>while continuously learning and growing.
 
 
 ## 🌐 Socials:
